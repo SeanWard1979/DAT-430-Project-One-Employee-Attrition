@@ -9,6 +9,9 @@ The baseline to establish using the HR Attrition data set involves determining w
 ## Conclusions
 
 ## File Descriptions
+Ward_Sean DAT 430 Project Two Part One.docx : Word document that shares the results of the statistical testing (using Random Forest Classifier and Logistic Regression models).
+
+Ward_Sean_DAT-430_Project_One.ipynb:  The Python code and results for the first Attrition project for DAT-430.
 
 ## The Project's Journey
 
