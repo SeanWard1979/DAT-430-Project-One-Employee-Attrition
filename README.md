@@ -14,6 +14,8 @@ Ward_Sean DAT 430 Project Two Part One.docx : Word document that shares the resu
 
 Ward_Sean_DAT-430_Project_One.ipynb:  The Python code and results for the first Attrition project for DAT-430.
 
+HR_Raw.xlsx: Cleaned up HR Data Set with every column converted into numerical format.  
+
 ## The Project's Journey
 The original attrition dataset featured 34 different variables with varying levels of influence on what causes attrition.  The data was properly cleaned and prepared within Jupyter Notebook.  The categorical data was converted into numerical format using LabelEncoder().  I utilized feature scaling as well.
 I used various visualizations such as a correlation heatmap to see the actual impact (if any) the variables have on attrition.  I narrowed it down to Performance Rating, Hourly Rate, Age, Distance from Home, Years in Current Role, Years Since Last Promotion and Education.  
